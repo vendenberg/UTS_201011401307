@@ -1,0 +1,3 @@
+[submodule "uts2022"]
+	path = uts2022
+	url = https://github.com/vendenberg/uts2022

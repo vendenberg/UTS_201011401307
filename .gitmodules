@@ -1,3 +1,6 @@
 [submodule "uts2022"]
 	path = uts2022
 	url = https://github.com/vendenberg/uts2022
+[submodule "ui02"]
+	path = ui02
+	url = https://github.com/vendenberg/ui02
